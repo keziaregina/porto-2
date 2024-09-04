@@ -3,8 +3,8 @@
     <div class="dizme_tm_news">
       <div class="container">
         <div class="dizme_tm_main_title" data-align="center">
-          <span>From My Blog</span>
-          <h3>My Recent Updates, Blog, Tips, Tricks &amp; More</h3>
+          <h3 style="color: #eb96c1; font-weight: bold">From My Blog</h3>
+          <span style="color: #b6b4bf;">My Recent Updates, Blog, Tips, Tricks &amp; More</span>
         </div>
         <div class="news_list">
           <ul>

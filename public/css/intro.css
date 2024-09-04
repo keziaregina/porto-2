@@ -986,7 +986,7 @@ h6 {
   line-height: 1.25;
   margin-bottom: 23px;
 }
-.dizme_tm_portfolio {
+/* .dizme_tm_portfolio {
   width: 100%;
   height: auto;
   clear: both;
@@ -994,7 +994,7 @@ h6 {
   padding-top: 185px;
   margin-bottom: 165px;
   position: relative;
-}
+} */
 .dizme_tm_portfolio .portfolio_filter {
   width: 100%;
   height: auto;
@@ -2069,8 +2069,8 @@ h6 {
   height: auto;
   clear: both;
   float: left;
-  padding-top: 185px;
-  margin-bottom: 160px;
+  /* padding-top: 185px;
+  margin-bottom: 160px; */
   position: relative;
 }
 .dizme_tm_news .news_list {

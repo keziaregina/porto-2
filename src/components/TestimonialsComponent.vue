@@ -2,8 +2,8 @@
   <div class="dizme_tm_section">
     <div class="dizme_tm_testimonials">
       <div class="dizme_tm_main_title" data-align="center">
-        <span>Testimonials</span>
-        <h3>What My Clients Say</h3>
+        <span style="color: #e7c0d4;">Testimonials</span>
+        <h3 style="color: #eb96c1; font-weight: bold">What My Clients Say</h3>
         <!-- <p>
           Most common methods for designing websites that work well on desktop
           is responsive and adaptive design

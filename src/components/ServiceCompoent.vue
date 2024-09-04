@@ -3,7 +3,7 @@
     <div class="dizme_tm_services">
       <div class="container">
         <div class="dizme_tm_main_title" data-align="center">
-          <h3 style="">My Service</h3>
+          <h3 style="color: #eb96c1; font-weight: bold">My Service</h3>
         </div>
         <div class="service_list">
           <ul>

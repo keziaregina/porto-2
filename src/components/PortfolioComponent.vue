@@ -3,11 +3,9 @@
     <div class="dizme_tm_portfolio">
       <div class="container">
         <div class="dizme_tm_main_title" data-align="center">
-          <!-- <span>Portfolio</span> -->
-          <h3>My Portfolio</h3>
+          <h3 style="color: #eb96c1; font-weight: bold">My Portfolio</h3>
           <p>
             Explore my portfolio, where my skills in full stack development come to life. These projects highlight my expertise in technologies like Laravel, Python, and NextJs, demonstrating my dedication to creating innovative solutions.
-            <!-- Explore my portfolio, where my skills in full stack development come to life. These projects highlight my expertise in technologies like Laravel, Python, and NextJs, demonstrating my dedication to creating innovative solutions. -->
           </p>
         </div>
         <div class="portfolio_filter">
@@ -15,7 +13,7 @@
             <li>
               <a
                 class="c-pointer"
-                :class="activeNavcls === '1' ? 'current' : ''"
+                :class="activeNav === '1' ? 'current' : ''"
                 @click.prevent="() => (this.activeNav = '1')"
                 data-filter="*"
                 >All</a
