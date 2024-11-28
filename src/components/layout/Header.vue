@@ -16,7 +16,7 @@
             <li><a href="https://medium.com/@keziaregina28">Blog</a></li>
             <li><a href="https://wa.me/6285601487041">WhatsApp</a></li>
             <li><a href="https://www.linkedin.com/in/keziaeci/">LinkedIn</a></li>
-            <!-- <li><a href="#contact">Upwork</a></li> -->
+            <li><a href="https://www.upwork.com/freelancers/~01d5648c3acbeed168?viewMode=1">Upwork</a></li>
             <li><a href="mailto:keziaregina28@gmail.com">Email Me</a></li>
           </ul>
         </div>
