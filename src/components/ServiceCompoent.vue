@@ -84,7 +84,7 @@
                 </div>
                 <div class="text">
                   <p>
-                    I have speciality in PHP for more than 2 years. I am building modern web development, responsive, and interactive application.
+                    I have speciality in PHP for more than 3 years. I am building modern web development, responsive, and interactive application.
                   </p>
                 </div>
                 <img
