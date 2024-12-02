@@ -25,7 +25,7 @@
                 </div>
                 <div class="text">
                   <p>
-                    I have more than 2 years of experience in Laravel and Vue.js Technologies, skilled in developing responsive and interactive web applications
+                    I have more than 3 years of experience in Laravel and Vue.js Technologies, skilled in developing responsive and interactive web applications
                   </p>
                 </div>
                 <img

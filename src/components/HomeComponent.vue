@@ -22,7 +22,7 @@
             </div>
             <div class="text">
               <p>
-                A Fullstack Developer with 2 years of experience in Web Development.
+                A Fullstack Developer with 3 years of experience in Web Development.
                 I've successfully delivered 150+ projects, specializing in crafting robust web applications and custom solutions.
               </p>
             </div>
