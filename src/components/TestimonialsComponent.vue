@@ -21,8 +21,8 @@
                 <div class="icon" v-html="testimonialIcon"></div>
                 <div class="text">
                   <p>
-                    Very professional and well organized. He created a step by step plan in Trello 
-                    and completed the steps quickly. He has good management and makes 
+                    Very professional and well organized. She created a step by step plan in Trello 
+                    and completed the steps quickly. She has good management and makes 
                     quick progress. 
                   </p>
                 </div>
@@ -67,8 +67,8 @@
                 <div class="text">
                   <p>
                     Talented and excellent developer in building applications with the latest
-                    technology. Also, his communication with clients is very good and always
-                    tries to satisfy the needs of clients. I highly recommend him with A++
+                    technology. Also, her communication with clients is very good and always
+                    tries to satisfy the needs of clients. I highly recommend her with A++
                   </p>
                 </div>
                 <div class="short">
